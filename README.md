@@ -1,10 +1,12 @@
-# Análisis Correlación Variables  
+# Análisis Asistido por IA 
 
-## 📊 Dashboard de Ventas
+## 📊 Dashboard de Ventas + Analisis Complementado con Gemini
 
-Este proyecto analiza ventas con Power BI.
-Ejemplo analizando la relación de la utilidad bruta vs margen utilidad desde el 2010 al 2020.
-En este caso específico se realiza un seguimiento de los productos de limpieza de cocina vendidos en línea.
+Este proyecto consiste basicamente en tomar unos datos provenientes de ventas
+clasificados por categoria, region, segmentos, empaque, etc
+Luego proceder a analisis asistido por Gemini, para determinar KPIs mas relevantes, graficos mas adecuados
+Finalmente generar a un Dashboard para llegar conclusiones, observaciones e identificar patrones y correlaciones
+que nos permitan comunicar insights valiosos a la sector correspondiente dentro del una empresa.
 
 ## 🖼️ Vista previa
 
@@ -15,7 +17,9 @@ En este caso específico se realiza un seguimiento de los productos de limpieza 
 <img src="Capturas/Gemini.jpeg" width="500"/>
 
 ## 🚀 Tecnologías
-- Power BI
+- Microsoft Excel
+- Power Point + PDF
+- Gemini IA
 
 ##### 👨‍💻 Author
 ##### Gabriel Gallardo
