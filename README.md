@@ -8,7 +8,7 @@ En este caso específico se realiza un seguimiento de los productos de limpieza 
 
 ## 🖼️ Vista previa
 
-<img src=".Capturas/DashInicial00.png" width="500"/>
+<img src="Capturas/DashInicial00.png" width="500"/>
 
 ## 🚀 Tecnologías
 - Power BI
