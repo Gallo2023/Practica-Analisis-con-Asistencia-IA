@@ -13,7 +13,7 @@ que nos permitan comunicar insights valiosos a la sector correspondiente dentro 
 <img src="Capturas/DashInicial00.png" width="500"/>
 <img src="Capturas/AnalisisGeografico.png" width="500"/>
 <img src="Capturas/CorrelacionDescVentas.png" width="500"/>
-<img src="Capturas/Conclusiones" width="500"/>
+<img src="Capturas/Conclusiones.png" width="500"/>
 <img src="Capturas/Gemini.jpeg" width="500"/>
 
 ## 🚀 Tecnologías
