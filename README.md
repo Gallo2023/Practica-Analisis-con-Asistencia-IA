@@ -14,7 +14,7 @@ que nos permitan comunicar insights valiosos a la sector correspondiente dentro 
 <img src="Capturas/AnalisisGeografico.png" width="500"/>
 <img src="Capturas/CorrelacionDescVentas.png" width="500"/>
 <img src="Capturas/Conclusiones.png" width="500"/>
-<img src="Capturas/Gemini.jpeg" width="250"/>
+<img src="Capturas/Gemini.jpeg" width="100"/>
 
 ## 🚀 Tecnologías
 - Microsoft Excel
