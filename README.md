@@ -5,10 +5,10 @@
 Este proyecto consiste basicamente en tomar unos datos provenientes de ventas
 clasificados por categoria, region, segmentos, empaque, etc.
 
-Luego proceder a analisis asistido por Gemini, para determinar KPIs mas relevantes, graficos mas adecuados.
+Luego proceder a un analisis asistido por Gemini, para determinar KPIs mas relevantes, graficos mas adecuados.
 
-Finalmente generar a un Dashboard para llegar conclusiones, observaciones e identificar patrones y correlaciones
-que nos permitan comunicar insights valiosos a la sector correspondiente dentro del una empresa.
+Finalmente generar a un Dashboard para llegar a conclusiones, observaciones e identificar patrones y correlaciones
+que nos permitan comunicar insights valiosos al sector correspondiente dentro de una empresa.
 
 ## 🖼️ Vista previa
 
@@ -20,7 +20,7 @@ que nos permitan comunicar insights valiosos a la sector correspondiente dentro 
 
 ## 🚀 Tecnologías
 - Microsoft Excel
-- Power Point + PDF
+- Power Point + PDF + Html
 - Gemini IA
 
 ##### 👨‍💻 Author
